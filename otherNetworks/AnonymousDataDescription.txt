@@ -1,0 +1,25 @@
+
+## IMPORTANT ## 
+
+Case number (NoUnique) refers to the offender.
+Event number (SeqE) refers to the crime event.
+
+## The table below gives the labels of each variable.
+
+Variable  Label               Position
+══════════════════════════════════════
+ NoUnique Case number                1
+Naissance Date of birth              2
+     SEXE Sex                        3
+     SeqE Event number               4
+  dateInf Date of crime event        5
+     NCD1 First crime (Main)         6
+     NCD2 Second crime               7
+     NCD3 Third crime                8
+     NCD4 Fourth crime               9
+      MUN Municipality              10
+      ED1 Place of crime            11
+   Jeunes Youth                     12
+  Adultes Adult                     13
+     Date Date of crime event       14
+    annee Year                      15
